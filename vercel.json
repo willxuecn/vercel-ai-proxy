@@ -30,6 +30,7 @@
         }
     ],
     "regions": [
-        "hnd1"
+        "hnd1",
+        "sin1"
     ]
 }
